@@ -21,12 +21,13 @@ This is a school project website built using HTML and CSS. It focuses solely on 
 
 <p align="center">
 Home : <br/>
-<img src="/home.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="/home.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
  <h2>Reference</h2>
- - <b>Made by watching</b> [YouTube Tutorial](https://www.youtube.com/watch?v=cgV2tN8gxCg)
+ - <b>Made by watching</b> 
+ - [YouTube Tutorial](https://www.youtube.com/watch?v=cgV2tN8gxCg)
   
 <!--
  ```diff
