@@ -1,7 +1,4 @@
 <h1>Travel Site</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 This is a school project website built using HTML and CSS. It focuses solely on design and does not include any functionality.
 <br />
@@ -26,8 +23,7 @@ Home : <br/>
 <br />
 
  <h2>Reference</h2>
- - <b>Made by watching</b> 
- - [YouTube Tutorial](https://www.youtube.com/watch?v=cgV2tN8gxCg)
+ - <b>Made by watching</b> [YouTube Tutorial](https://www.youtube.com/watch?v=cgV2tN8gxCg)
   
 <!--
  ```diff
