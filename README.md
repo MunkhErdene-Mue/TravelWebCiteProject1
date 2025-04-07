@@ -24,7 +24,10 @@ Home : <br/>
 <img src="/home.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-  ## made by watching [YouTube tutorial](https://www.youtube.com/watch?v=cgV2tN8gxCg)
+ made by watching [YouTube tutorial](https://www.youtube.com/watch?v=cgV2tN8gxCg) <br/>
+<br />
+<br />
+  
 <!--
  ```diff
 - text in red
