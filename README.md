@@ -26,7 +26,7 @@ Home : <br/>
 <br />
 
 
-<h2> made by watching (youtube tutorial):(https://www.youtube.com/watch?v=cgV2tN8gxCg)
+<h2> made by watching [youtube tutorial]:(https://www.youtube.com/watch?v=cgV2tN8gxCg)
 <!--
  ```diff
 - text in red
