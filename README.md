@@ -26,7 +26,7 @@ Home : <br/>
 <br />
 
  <h2>Reference</h2>
- - <b> Made by watching [YouTube tutorial](https://www.youtube.com/watch?v=cgV2tN8gxCg) <br/>
+ - <b> Made by watching [YouTube Tutorial](https://www.youtube.com/watch?v=cgV2tN8gxCg)<br/>
 
   
 <!--
